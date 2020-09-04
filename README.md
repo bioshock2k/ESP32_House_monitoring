@@ -9,11 +9,11 @@ I choose MQTT as the protocol used on this project, using Node-Red and MOSQUITTO
 
 # Features
 It has 3 phases being processed by the ESP32 and sent to 3 different topics.
-There are 3 relays that control 3 sockets off a room, having control over them also.
+There are 3 power relays that control 3 sockets in a room..
 
 #Too develop
 Adding a 4 phase to have complete 3 phase of the house plus the solar current input.
-But for now it will do
+But for now it will do.
 
 # Image
 This is the board made by me with all the other components(relays,power relays and switches for added security)
